@@ -1,2 +1,6 @@
 # Web-Loader
-Pre-loader/Loader for websites using HTML,CSS or JS (in some cases)
+Pre-loader/Loader for websites using pure CSS!
+- No JavaScript used
+- Only 1 div used
+- Created on codepen.io
+
